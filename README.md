@@ -14,19 +14,19 @@
 
 ### Skills:
 
-- React.Js, Next.Js, NodeJs (Express)
-- Typescript, Javascript
-- Html & Css, SASS
-- TailwindCss, Redux, Redux-toolkit, Zustand
-- Material-UI, Ant Design, Chakra-ui
-- Restful API, GraphQL,
-- MySql, MongoDB, Firebase
+#### - React.Js, Next.Js, NodeJs (Express)
+#### - Typescript, Javascript
+#### - Html & Css, SASS
+#### - TailwindCss, Redux, Redux-toolkit, Zustand
+#### - Material-UI, Ant Design, Chakra-ui
+#### - Restful API, GraphQL,
+#### - MySql, MongoDB, Firebase
 
 </br>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangnguyen2100&hide=html,css,hack,scss&layout=compact&theme=tokyonight)
 
-**Contact Me:**
+### Contact Me:
 
 <a target="_blank" href="https://www.linkedin.com/in/khangng2100/">
   <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
