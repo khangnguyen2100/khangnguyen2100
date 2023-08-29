@@ -66,3 +66,6 @@ $fullFile = Get-ChildItem -Path $pwd -Filter .\cove.zip | ForEach-Object{$_.Full
 
 # alias for docker
 Set-Alias -Name d -Value docker
+
+# vscode setup
+# https://vscode.dev/profile/github/1652137255755104a511a721734c0e13
