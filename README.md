@@ -1,16 +1,36 @@
-### Hi there 👋
+**Hi there, I'm Khang Nguyen.** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 
-<!--
-**khangnguyen2100/khangnguyen2100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- I'm a Developer from Vietnam. Currently, I'm living in Ho Chi Minh City.
+- My career goal is become a fullstack web developer. I willingly learn more to reach that goal.
+- I'm open to learning new things, especially social skills, and I'm always open to making new friends.
+- 📫 Reach me through mail:
+  <a target="_blank" href="mailto:khangng2100@gmail.com">
+  khangng2100@gmail.com
+  </a>
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khangnguyen2100&show_icons=true&count_private=true)
+
+### Skills:
+
+- React.Js, Next.Js, NodeJs (Express)
+- Typescript, Javascript
+- Html & Css, SASS
+- TailwindCss, Redux, Redux-toolkit, Zustand
+- Material-UI, Ant Design, Chakra-ui
+- Restful API, GraphQL,
+- MySql, MongoDB, Firebase
+
+</br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangnguyen2100&hide=html,css)
+
+**Contact Me:**
+
+<a target="_blank" href="https://www.linkedin.com/in/khangng2100/">
+  <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a target="_blank" href="https://www.facebook.com/khangnguyenn2311/">
+  <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
+</a>
