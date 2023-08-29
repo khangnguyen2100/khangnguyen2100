@@ -1,4 +1,4 @@
-**Hi there, I'm Khang Nguyen.** <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
+## Hi there, I'm Khang Nguyen. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"/>
 
 - I'm a Developer from Vietnam. Currently, I'm living in Ho Chi Minh City.
 - My career goal is become a fullstack web developer. I willingly learn more to reach that goal.
@@ -10,7 +10,7 @@
 
 </br>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khangnguyen2100&show_icons=true&count_private=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khangnguyen2100&show_icons=true&count_private=true&theme=tokyonight)
 
 ### Skills:
 
@@ -24,7 +24,7 @@
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangnguyen2100&hide=html,css)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khangnguyen2100&hide=html,css,hack,scss&layout=compact&theme=tokyonight)
 
 **Contact Me:**
 
