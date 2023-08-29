@@ -1,4 +1,4 @@
-oh-my-posh init pwsh --config 'C:\Users\khang\.config\PowerShell\takuya.omp.json' | Invoke-Expression
+oh-my-posh init pwsh --config 'C:\Users\khang\.config\PowerShell\khang-nguyen.omp.json' | Invoke-Expression
 
 # this is the terminal icons for dir command
 Import-Module -Name Terminal-Icons
