@@ -34,3 +34,6 @@
 <a target="_blank" href="https://www.facebook.com/khangnguyenn2311/">
   <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
 </a>
+<a target="_blank" href="mailto:khangng2100@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-orage?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail Badge"/>
+</a>
