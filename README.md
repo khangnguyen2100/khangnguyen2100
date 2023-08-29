@@ -3,7 +3,7 @@
 - I'm a Developer from Vietnam. Currently, I'm living in Ho Chi Minh City.
 - My career goal is become a fullstack web developer. I willingly learn more to reach that goal.
 - I'm open to learning new things, especially social skills, and I'm always open to making new friends.
-- 📫 Reach me through mail:
+- Reach me through mail:
   <a target="_blank" href="mailto:khangng2100@gmail.com">
   khangng2100@gmail.com
   </a>
